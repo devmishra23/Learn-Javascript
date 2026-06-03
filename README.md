@@ -181,4 +181,5 @@ Understanding concepts like closures, event loop, prototypes, async programming,
 **Devashish Mishra**
 
 B.Tech CSE Student | Aspiring Software Engineer | Full-Stack Developer in Progress
-~ ~ ~ DEVASHISH MISHRA  
+
+~ ~ ~  BY DEVASHISH MISHRA  
